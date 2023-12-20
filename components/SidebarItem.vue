@@ -16,7 +16,7 @@
 
       <HDisclosure v-slot="{ open }" v-else>
         <HDisclosureButton
-          class="inline-flex items-center gap-4 px-4 p-3 text-left text-[15px]"
+          class="inline-flex items-center gap-4 justify-between px-4 p-3 text-left text-[15px]"
         >
           <div class="flex item-center gap-4">
             <Icon
